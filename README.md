@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sumair 👋  
+🎓 BTech CSE (AI & ML) | 💻 Future ML Engineer | 🌱 Learning every day
 
-<!--
-**Summerlah/Summerlah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building smart, meaningful tech with data and code. Currently exploring Machine Learning, Data Science, and Software Development, and working on cool projects that blend theory with real-world impact.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- 📊 A movie recommendation system using collaborative filtering
+- 🧠 Deep Learning basics with PyTorch
+- 💻 Solving DSA problems daily on LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, Java, C++
+- AI/ML: Scikit-learn, Pandas, Numpy, Matplotlib
+- Tools: Git, GitHub, Jupyter, Google Colab
+- Databases: MySQL, MongoDB (basic)
+- Learning: TensorFlow, PyTorch, REST APIs
+
+## 📈 Current Goals
+- 🧠 Master core ML algorithms
+- 💪 Solve 200+ DSA problems
+- ✨ Build 5 impactful GitHub projects
+- 💼 Land an internship by 3rd year
+
+## 📬 Let’s Connect!
+- 📫 [LinkedIn](https://linkedin.com/in/Summerlah)
