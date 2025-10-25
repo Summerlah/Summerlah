@@ -22,4 +22,4 @@ I'm passionate about building smart, meaningful tech with data and code. Current
 - 💼 Land an internship by 3rd year
 
 ## 📬 Let’s Connect!
-- 📫 [LinkedIn](https://linkedin.com/in/Summerlah)
+- 📫 [LinkedIn](https://www.linkedin.com/in/sumair-ali-b1b8a2382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
