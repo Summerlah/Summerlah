@@ -9,7 +9,7 @@ I'm passionate about building smart, meaningful tech with data and code. Current
 - 💻 Solving DSA problems daily on LeetCode
 
 ## 🛠️ Tech Stack
-- Languages: Python, Java, C++
+- Languages: Python, Java, C++, JavaScript
 - AI/ML: Scikit-learn, Pandas, Numpy, Matplotlib
 - Tools: Git, GitHub, Jupyter, Google Colab
 - Databases: MySQL, MongoDB (basic)
