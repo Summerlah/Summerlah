@@ -1,4 +1,4 @@
-# Hi, I'm Sumair 👋  
+# Hi, I'm Muhammad Sumair Ali👋  
 🎓 BTech CSE (AI & ML) | 💻 Future ML Engineer | 🌱 Learning every day
 
 I'm passionate about building smart, meaningful tech with data and code. Currently exploring Machine Learning, Data Science, and Software Development, and working on cool projects that blend theory with real-world impact.
